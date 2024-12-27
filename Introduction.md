@@ -85,7 +85,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-<span class="quotes">Working in teams create a speculative wearable for the “greater evil” within the Earthsuits context.<br />By focusing on an “evil” angle—exploiting, harming, or subverting typical solutions—you will confront ethical questions head-on. At the end of the day, teams will have to pitch their concepts “Dragons’ Den” style to a panel.</span>
+<span class="quotes">Working in teams create a speculative wearable for the “greater evil” within the Earthsuits context.<br /><br />By focusing on an “evil” angle—exploiting, harming, or subverting typical solutions—you will confront ethical questions head-on. At the end of the day, teams will have to pitch their concepts “Dragons’ Den” style to a panel.</span>
 </section>
 
 <section data-background-color="red" data-state=h1>
