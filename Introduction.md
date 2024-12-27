@@ -123,7 +123,6 @@ layout: designing-things
     </span>
 </section>
 
-
 <section data-state=h1>
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Planetary Resource Extractor</h1>
     <span class="quotes">
@@ -132,8 +131,9 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-<span class="quotes">
-    <p>A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna).</p>
-    <p class="fragment fade-up">Focusing on ruthless exploitation, interrogates the complexities of “using technology for good” versus fueling destructive consumption.</p>
-</span>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Planetary Resource Extractor</h1>
+    <span class="quotes">
+        <p>A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna), fueling destructive consumption</p>
+    </span>
 </section>
+
