@@ -63,7 +63,6 @@ layout: designing-things
 
 <section data-state=sa data-background-image="assets/imgs/sa_0.jpg">
  <style>.sa header:after { content: "American astronaut Deke Slayton and Russian cosmonaut Alexei Leonov, 1975 — US-Soviet Apollo-Soyuz linkup"; }</style>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 4rem !important;" >4. APAS:<br/><span style="font-family:'picnic'; font-size:3rem;">Androgynous Airlock Politics</span></h1>
 </section>
 
 <section data-background-image="assets/imgs/sa_1.jpg" data-state=sa2>
