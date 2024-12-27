@@ -1,0 +1,332 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,500&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Vesper+Libre:wght@400;700&family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Rubik+Puddles&family=Rubik+Beastly&family=Rubik+Wet+Paint&display=swap');
+
+@font-face {
+    font-family: 'picnic';
+    src: url('../../assets/fonts/PicNic/PicNic-Regular.woff2') format('woff2'),
+        url('../../assets/fonts/PicNic/PicNic-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'grotesk';
+    src: url('../../assets/fonts/grotesk/Grotesk-03Regular.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-03Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'grotesk-gros';
+    src: url('../../assets/fonts/grotesk/Grotesk-04Gras.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-04Gras.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'grotesk-mince';
+    src: url('../../assets/fonts/grotesk/Grotesk-02Mince.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-02Mince.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'grotesk-fin';
+    src: url('../../assets/fonts/grotesk/Grotesk-01Extrafin.woff2') format('woff2'),
+        url('../../assets/fonts/grotesk/Grotesk-01Extrafin.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: "HND";
+    src: url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.eot") format("embedded-opentype"),
+        url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.woff") format("woff");
+}
+
+@font-face {
+    font-family: "lithops";
+    src: url("../../assets/fonts/Lithops/Lithops-Regular.otf") format("opentype"),
+        url("../../assets/fonts/Lithops/Lithops-Regular.woff") format("woff");
+}
+
+body {
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+    padding: 1em;
+    font-family: 'IBM Plex Mono';
+}
+
+ins {
+    text-underline-offset: 4px;
+}
+
+.tic {
+    color: aqua !important;
+}
+
+.BT {
+    font-family: "Major Mono Display" !important;
+    font-weight: normal !important;
+    font-size: 4rem !important;
+    text-align: left !important;
+    text-transform: uppercase !important;
+}
+
+.WP {
+    font-family: "Rubik Wet Paint" !important;
+    font-weight: normal !important;
+    font-size: 4rem !important;
+    text-align: left !important;
+    text-transform: uppercase !important;
+}
+
+.NT {
+    font-family: "Major Mono Display" !important;
+    font-weight: normal !important;
+    font-size: 9rem !important;
+    text-transform: lowercase !important;
+}
+
+#a-repo-of-takls,
+#the-alchemy-of-ruin {
+    font-family: "Major Mono Display";
+    font-size: 4rem;
+    font-weight: normal;
+    max-width: 600px;
+    white-space: pre-wrap;
+    /* css-3 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
+    /* Internet Explorer 5.5+ */
+}
+
+h1 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+a {
+    /* font-family: 'IBM Plex Sans'; */
+    color: aqua;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+th {
+    text-align: left;
+    font-size: 12px;
+}
+
+td {
+    padding-right: 1rem;
+    font-size: 12px;
+}
+
+.tcol {
+    border-left: solid thin;
+}
+
+.t15 {
+    border-left: dashed thin;
+}
+
+.sem {
+    font-size: 1rem !important;
+    font-family: 'Major Mono Display' !important;
+    font-weight: normal !important;
+    table-layout: fixed;
+}
+
+.trow {
+    border-left: solid thin;
+}
+
+.bott {
+    border-top: dashed thin !important;
+}
+
+.lit {
+    font-family: 'Lithops';
+    font-size: 12rem;
+    /* color: black; */
+    line-height: 0.6;
+    /* padding: 2rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    background: yellow;
+    border-radius: 3rem;
+    text-align: center; */
+}
+
+.flexy {
+    width: 100%;
+    display: flex;
+    position: relative;
+    max-width: 100%;
+    justify-content: space-between;
+    font-family: 'IBM Plex Mono';
+    color: aqua;
+    font-size: 2rem;
+}
+
+.margin6remTop {
+    margin-top: 6rem !important;
+
+}
+
+p,
+ul {
+    max-width: 600px;
+    font-size: 0.9rem;
+    font-family: 'Vesper Libre';
+    line-height: 1.3;
+    text-align: justify;
+}
+
+ul {
+    max-width: calc(600px - 3em);
+}
+
+h3 {
+    font-weight: normal;
+    text-transform: uppercase;
+    font-family: 'IBM Plex Sans';
+    border-bottom: solid thin;
+    border-top: solid thin;
+    padding: 1em 0;
+    max-width: 600px;
+}
+
+hr {
+    border: none;
+    border-bottom: dotted thin;
+    max-width: 600px;
+    margin: 0;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: calc(600px - 2em);
+    background: repeating-linear-gradient(45deg, #ffffff30, transparent 4px);
+    padding: 0.5em 1em;
+    margin: 1em 0;
+}
+
+table {
+    padding: 1rem 0;
+    min-width: 600px;
+}
+
+h5#index {
+    font-style: normal;
+    color: aqua;
+    border-bottom: dotted thin;
+    padding-bottom: 1rem;
+}
+
+.verb th {
+    border: none !important;
+    padding: 0 !important;
+}
+
+.nomar {
+    margin: 0 !important;
+}
+
+.smalf {
+    font-size: 1.5rem !important;
+}
+
+.sem th {
+    font-size: 17px !important;
+}
+
+.sem td {
+    height: 60px;
+    border: none;
+    border-left: solid thin;
+    font-weight: bold;
+}
+
+.tt tr th:first-child,
+.ttt tr td:first-child {
+    width: 2rem;
+    min-width: 2rem;
+    max-width: 2rem;
+}
+
+.stage td {
+    height: 10px;
+    color: aqua;
+    border-color: white !important;
+}
+
+.hl {
+    background: red;
+    color: aqua;
+    border-color: white !important;
+}
+
+.sl {
+    background: orchid;
+    color: aqua;
+    border-color: white !important;
+}
+
+.pl {
+    background: cadetblue;
+}
+
+.reveal-viewport {
+    padding: 0;
+}
+
+.quotes {
+    font-family: 'Vesper Libre';
+    text-align: left;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    display: block;
+    text-align: left;
+}
+
+
+blockquote:first-of-type a {
+    font-family: 'IBM Plex Sans';
+}
+
+blockquote:first-of-type {
+    position: relative;
+    border: none;
+}
+
+@media only screen and (min-width: 1000px) {
+    blockquote:first-of-type {
+        position: fixed;
+        right: 0;
+        top: -1em;
+        /* border-left: dotted thin; */
+    }
+
+    hr:first-of-type {
+        visibility: hidden;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    table {
+        min-width: 0px;
+    }
+}
+
+body::-webkit-scrollbar {
+    width: 5px;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: aqua;
+}
+
+body::-webkit-scrollbar-track {
+    background-color: rgb(86, 27, 141);
+}
