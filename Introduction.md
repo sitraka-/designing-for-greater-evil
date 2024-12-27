@@ -119,7 +119,7 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Inverted Empathy Suit</h1>
     <span class="quotes">
-        <p styel="text-align: center;
+        <p style="text-align: center;
     width: 80%;
     margin: auto;">A wearable that amplifies people’s capacity to ignore the emotions or suffering of others.</p>
     </span>
@@ -128,7 +128,7 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Planetary Resource Extractor</h1>
     <span class="quotes">
-        <p styel="text-align: center;
+        <p style="text-align: center;
     width: 80%;
     margin: auto;">A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna), fueling destructive consumption</p>
     </span>
@@ -137,7 +137,7 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Surveillance Couture</h1>
     <span class="quotes">
-        <p styel="text-align: center;
+        <p style="text-align: center;
     width: 80%;
     margin: auto;">An Earthsuit that collects massive data on everyone around the wearer; shifts from “protecting the wearer” to “violating others”.</p>
     </span>
@@ -146,7 +146,7 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Crowded Comfort Exoskeleton</h1>
     <span class="quotes">
-        <p styel="text-align: center;
+        <p style="text-align: center;
     width: 80%;
     margin: auto;">An exoskeleton that enables overpopulation to continue without addressing root causes—allowing humans to live in hyper-dense conditions; designing only short-term solutions that ignore systemic issues.</p>
     </span>
@@ -155,7 +155,7 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Climate Change Accelerator</h1>
     <span class="quotes">
-        <p styel="text-align: center;
+        <p style="text-align: center;
     width: 80%;
     margin: auto;">An Earthsuit that relies on accelerating climate change to function better (for instance, harnessing heat or greenhouse gases for power).</p>
     </span>
@@ -164,7 +164,7 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >False Sense of Security Garment</h1>
     <span class="quotes">
-        <p styel="text-align: center;
+        <p style="text-align: center;
     width: 80%;
     margin: auto;">a garment that feels protective but is actually dangerously ineffective (e.g., it obstructs real data about the environment while giving the wearer reassuring feedback); investigates the illusions design can create</p>
     </span>
