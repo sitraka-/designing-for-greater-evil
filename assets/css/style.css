@@ -301,6 +301,9 @@ h5#index {
     text-align: left;
 }
 
+.quotes p {
+    font-size: 2rem;
+}
 
 blockquote:first-of-type a {
     font-family: 'IBM Plex Sans';

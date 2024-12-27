@@ -94,7 +94,7 @@ layout: designing-things
 
 <section data-background-color="red" data-state=h1>
     <span class="quotes">
-    <p class="fragment fade-up">1. A cardboard prototype of the wearable or relevant subsystem.</p>
+    <p>1. A cardboard prototype of the wearable or relevant subsystem.</p>
     <p class="fragment fade-up">2. A 3 minutes “pitch” explaining the concept, its malicious function, and why it’s so “desirable” for the user.</p>
     <p class="fragment fade-up">3. A short reflection on what this “evil” design reveals about our assumptions, biases, and responsibilities as designers.</p>
     </span>
