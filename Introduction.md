@@ -126,7 +126,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Planetary Resource Extractor</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Planetary Resource Extractor</h1>
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
@@ -135,7 +135,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Surveillance Couture</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Surveillance Couture</h1>
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
@@ -144,7 +144,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Crowded Comfort Exoskeleton</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Crowded Comfort Exoskeleton</h1>
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
@@ -153,7 +153,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Climate Change Accelerator</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Climate Change Accelerator</h1>
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
@@ -162,11 +162,11 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >False Sense of Security Garment</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >False Sense of Security Garment</h1>
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
-    margin: auto;">a garment that feels protective but is actually dangerously ineffective (e.g., it obstructs real data about the environment while giving the wearer reassuring feedback); investigates the illusions design can create</p>
+    margin: auto;">A garment that feels protective but is actually dangerously ineffective (e.g., it obstructs real data about the environment while giving the wearer reassuring feedback); investigates the illusions design can create</p>
     </span>
 </section>
 
