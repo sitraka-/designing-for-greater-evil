@@ -75,7 +75,7 @@ layout: designing-things
 
 <section data-background-image="assets/imgs/apas9522.jpg" data-state=apas95>
  <style>.apas95 header:after { content: "APAS-95, 1995 — Shuttle-Mir / ISS"; }</style> 
-<span class="quotes">Design itself is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
+<span class="quotes">Design is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. <br /><br />It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
 </section>
 
 <section data-state=h1>
