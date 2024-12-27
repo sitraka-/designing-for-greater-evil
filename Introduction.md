@@ -89,8 +89,13 @@ layout: designing-things
 </section>
 
 <section data-background-color="red" data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Outcomes</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Key Outcomes</h1>
 </section>
 
-
-
+<section data-background-color="red" data-state=h1>
+    <span class="quotes">
+    <p class="fragment fade-up">1. A cardboard prototype of the wearable or relevant subsystem.</p>
+    <p class="fragment fade-up">2. A 3 minutes “pitch” explaining the concept, its malicious function, and why it’s so “desirable” for the user.</p>
+    <p class="fragment fade-up">3. A short reflection on what this “evil” design reveals about our assumptions, biases, and responsibilities as designers.</p>
+    </span>
+</section>
