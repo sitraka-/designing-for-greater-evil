@@ -51,6 +51,10 @@ body {
     font-family: 'IBM Plex Mono';
 }
 
+body h1:first-child {
+    margin: auto;
+}
+
 ins {
     text-underline-offset: 4px;
 }
