@@ -1,5 +1,6 @@
-# Design For The Greater Evil
-A design brief to explore the greater evil; a short cut to critical design practices
+# Designs For The Greater Evil
+A design brief to explore the greater evil;
+A short cut to critical design practices
 
 ---
 
