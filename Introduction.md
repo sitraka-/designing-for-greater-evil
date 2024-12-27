@@ -79,7 +79,8 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Objectives</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 3rem !important;" >Enter The<br/>
+    <span style="font-size:8rem;">Dragons' Den</span></h1>
 </section>
 
 <section data-background-image="assets/imgs/DDen.png" data-state=dden>
@@ -91,8 +92,5 @@ layout: designing-things
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Outcomes</h1>
 </section>
 
-<section data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 3rem !important;" >Enter The<br/>
-    <span style="font-size:8rem;">Dragons' Den</span></h1>
-</section>
+
 
