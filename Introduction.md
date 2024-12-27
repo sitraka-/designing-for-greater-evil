@@ -113,7 +113,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Ten Beginings</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Six Beginings</h1>
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/hms.jpg">
@@ -130,11 +130,11 @@ layout: designing-things
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
-    margin: auto;">A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna), fueling destructive consumption</p>
+    margin: auto;">A wearable system that maximizes resource extraction from a future London environment, fueling destructive consumption</p>
     </span>
 </section>
 
-<section data-state=h1 >
+<section data-state=h1 data-background-image="assets/imgs/ant.png">
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Surveillance Couture</h1>
     <span class="quotes">
         <p style="text-align: center;
@@ -143,7 +143,7 @@ layout: designing-things
     </span>
 </section>
 
-<section data-state=h1>
+<section data-state=h1 data-background-image="assets/imgs/exo.png">
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Crowded Comfort Exoskeleton</h1>
     <span class="quotes">
         <p style="text-align: center;
@@ -152,7 +152,7 @@ layout: designing-things
     </span>
 </section>
 
-<section data-state=h1>
+<section data-state=h1 data-background-image="assets/imgs/trash.png">
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Climate Change Accelerator</h1>
     <span class="quotes">
         <p style="text-align: center;
@@ -161,7 +161,7 @@ layout: designing-things
     </span>
 </section>
 
-<section data-state=h1>
+<section data-state=h1 data-background-image="assets/imgs/seat.png">
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >False Sense of Security Garment</h1>
     <span class="quotes">
         <p style="text-align: center;
