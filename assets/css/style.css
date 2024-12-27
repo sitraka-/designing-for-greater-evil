@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,500&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Vesper+Libre:wght@400;700&family=Major+Mono+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Rubik+Puddles&family=Rubik+Beastly&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=UnifrakturCook:wght@700&display=swap');
 
 @font-face {
     font-family: 'picnic';
@@ -53,6 +54,7 @@ body {
 
 body h1:first-child {
     margin: auto;
+    font-family: 'UnifrakturCook';
 }
 
 ins {
