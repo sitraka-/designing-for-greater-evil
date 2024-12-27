@@ -22,11 +22,15 @@ layout: designing-things
 </section>
 
 <section data-state=h1 >
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >1. Low Bridges, High Barriers<br/>Moses' Low Overpasses</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 8rem !important;" >1. Low Bridges, High Barriers:<br/><span style="font-family:'picnic">Moses' Low Overpasses</span></h1>
 </section>
 
 <section data-state=h1 >
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >2. Widened Streets, Narrowed Freedoms<br/>Haussmann's Paris</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >2. Widened Streets, Narrowed Freedoms:<br/>Haussmann's Paris</h1>
+</section>
+
+<section data-state=h1 >
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >3. Data As Weapon:<br/>Cambridgian Analysis</h1>
 </section>
 
 <section data-state=h1 >
