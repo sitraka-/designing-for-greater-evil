@@ -73,8 +73,8 @@ layout: designing-things
  <style>.apas header:after { content: "APAS-75, 1975 — Androgynous Peripheral Attach System"; }</style>
 </section>
 
-<section data-state=h1 data-background-color="#dddddd">
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.8;font-size: 8rem !important; color: #191919;" >
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.8;font-size: 8rem !important;" >
         <span style="font-size:3rem;">Enter The</span>
     <br/>Dragons' Den</h1>
 </section>
