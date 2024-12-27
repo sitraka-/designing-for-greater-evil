@@ -73,6 +73,11 @@ layout: designing-things
  <style>.apas header:after { content: "APAS-75, 1975 — Androgynous Peripheral Attach System"; }</style>
 </section>
 
+<section data-background-image="assets/imgs/apas9522.jpg" data-state=apas95>
+ <style>.apas95 header:after { content: "APAS-95, 1995 — Shuttle-Mir / ISS"; }</style> 
+<span class="quotes">Design itself is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
+</section>
+
 <section data-state=h1>
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.8;font-size: 8rem !important;" >
         <span style="font-size:3rem;">Enter The</span>
