@@ -113,7 +113,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Six Beginings</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Six Beginnings</h1>
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/hms.jpg">
@@ -170,3 +170,6 @@ layout: designing-things
     </span>
 </section>
 
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Good Luck</h1>
+</section>
