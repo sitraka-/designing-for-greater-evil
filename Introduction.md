@@ -74,7 +74,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1 >
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 8rem !important;" >
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.8;font-size: 8rem !important;" >
         <span style="font-size:3rem;">Enter The</span>
     <br/>Dragons' Den</h1>
 </section>
