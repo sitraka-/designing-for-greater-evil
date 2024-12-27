@@ -106,8 +106,8 @@ layout: designing-things
 
 <section data-background-color="blueviolet" data-state=h1>
     <span class="quotes">
-    <p>✓ Embrace Absurdity: The more over-the-top the ideas, the easier it is to spot ethical and environmental red flags.</p>
-    <p class="fragment fade-up">✓ Keep it Fast & Fun: A one-day sprint works best with a spirited, “fail fast” approach.</p>
-    <p class="fragment fade-up">✓ Encourage Reflection: Continuously prompt teams to notice how “evil” design reveals hidden biases or oversights that could happen in “good” design.</p>
+    <p>✓ <span style="font-family: UnifrakturCook;">Embrace Absurdity:</span> The more over-the-top the ideas, the easier it is to spot ethical and environmental red flags.</p>
+    <p class="fragment fade-up">✓ <span style="font-family: UnifrakturCook;">Keep it Fast & Fun:</span> A one-day sprint works best with a spirited, “fail fast” approach.</p>
+    <p class="fragment fade-up">✓ <span style="font-family: UnifrakturCook;">Encourage Reflection:</span> Continuously prompt teams to notice how “evil” design reveals hidden biases or oversights that could happen in “good” design.</p>
     </span>
 </section>
