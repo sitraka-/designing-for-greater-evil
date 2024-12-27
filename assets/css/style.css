@@ -302,7 +302,8 @@ h5#index {
 }
 
 .quotes p {
-    font-size: 2rem;
+    font-size: 2.1rem;
+    margin: 1rem auto;
 }
 
 blockquote:first-of-type a {
