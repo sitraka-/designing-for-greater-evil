@@ -35,7 +35,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1 >
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 4rem !important;" >2. Widened Streets, Narrowed Freedoms:<br/><span style="font-family:'picnic'; font-size:3rem;">Haussmann's Paris</span></h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 4rem !important;" >2. Widened Streets,<br/>Narrowed Freedoms:<br/><span style="font-family:'picnic'; font-size:3rem;">Haussmann's Paris</span></h1>
 </section>
 
 <section data-background-image="assets/imgs/haussmann_1.jpg" data-state=h1>
@@ -55,6 +55,10 @@ layout: designing-things
 
 <section data-background-image="assets/imgs/kogan.webp" data-state=cam2>
  <style>.cam2 header:after { content: "Aleksandr Kogan, 2018 — Cambridge Analytica"; }</style>
+</section>
+
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 4rem !important;" >4. APAS:<br/><span style="font-family:'picnic'; font-size:3rem;">Androgynous Airlock Politics</span></h1>
 </section>
 
 <section data-state=sa data-background-image="assets/imgs/sa_0.jpg">
