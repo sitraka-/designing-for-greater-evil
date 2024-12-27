@@ -117,23 +117,41 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Inverted Empathy Suit</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Inverted Empathy Suit</h1>
     <span class="quotes">
-        <p>A wearable that amplifies people’s capacity to ignore the emotions or suffering of others.</p>
+        <p styel="text-align: center;
+    width: 80%;
+    margin: auto;">A wearable that amplifies people’s capacity to ignore the emotions or suffering of others.</p>
     </span>
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Planetary Resource Extractor</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Planetary Resource Extractor</h1>
     <span class="quotes">
-        <p>A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna), fueling destructive consumption</p>
+        <p styel="text-align: center;
+    width: 80%;
+    margin: auto;">A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna), fueling destructive consumption</p>
     </span>
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Planetary Resource Extractor</h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Surveillance Couture</h1>
     <span class="quotes">
-        <p>A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna), fueling destructive consumption</p>
+        <p>An Earthsuit that collects massive data on everyone around the wearer; shifts from “protecting the wearer” to “violating others”.</p>
+    </span>
+</section>
+
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Crowded Comfort Exoskeleton</h1>
+    <span class="quotes">
+        <p>An exoskeleton that enables overpopulation to continue without addressing root causes—allowing humans to live in hyper-dense conditions; designing only short-term solutions that ignore systemic issues.</p>
+    </span>
+</section>
+
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Climate Change Accelerator</h1>
+    <span class="quotes">
+        <p>An Earthsuit that relies on accelerating climate change to function better (for instance, harnessing heat or greenhouse gases for power).</p>
     </span>
 </section>
 
