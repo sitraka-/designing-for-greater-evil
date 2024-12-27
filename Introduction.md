@@ -100,7 +100,7 @@ layout: designing-things
     </span>
 </section>
 
-<section data-background-color="red" data-state=h1>
+<section data-background-color="blueviolet" data-state=h1>
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Key Tips</h1>
     <span class="quotes">
     <p>✓ Embrace Absurdity: The more over-the-top the ideas, the easier it is to spot ethical and environmental red flags.</p>
