@@ -137,21 +137,36 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Surveillance Couture</h1>
     <span class="quotes">
-        <p>An Earthsuit that collects massive data on everyone around the wearer; shifts from “protecting the wearer” to “violating others”.</p>
+        <p styel="text-align: center;
+    width: 80%;
+    margin: auto;">An Earthsuit that collects massive data on everyone around the wearer; shifts from “protecting the wearer” to “violating others”.</p>
     </span>
 </section>
 
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Crowded Comfort Exoskeleton</h1>
     <span class="quotes">
-        <p>An exoskeleton that enables overpopulation to continue without addressing root causes—allowing humans to live in hyper-dense conditions; designing only short-term solutions that ignore systemic issues.</p>
+        <p styel="text-align: center;
+    width: 80%;
+    margin: auto;">An exoskeleton that enables overpopulation to continue without addressing root causes—allowing humans to live in hyper-dense conditions; designing only short-term solutions that ignore systemic issues.</p>
     </span>
 </section>
 
 <section data-state=h1>
     <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >Climate Change Accelerator</h1>
     <span class="quotes">
-        <p>An Earthsuit that relies on accelerating climate change to function better (for instance, harnessing heat or greenhouse gases for power).</p>
+        <p styel="text-align: center;
+    width: 80%;
+    margin: auto;">An Earthsuit that relies on accelerating climate change to function better (for instance, harnessing heat or greenhouse gases for power).</p>
+    </span>
+</section>
+
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" >False Sense of Security Garment</h1>
+    <span class="quotes">
+        <p styel="text-align: center;
+    width: 80%;
+    margin: auto;">a garment that feels protective but is actually dangerously ineffective (e.g., it obstructs real data about the environment while giving the wearer reassuring feedback); investigates the illusions design can create</p>
     </span>
 </section>
 
