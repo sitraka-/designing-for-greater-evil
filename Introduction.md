@@ -115,3 +115,25 @@ layout: designing-things
 <section data-state=h1>
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Ten Beginings</h1>
 </section>
+
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Inverted Empathy Suit</h1>
+</section>
+
+<section data-state=h1>
+<span class="quotes">
+    <p>A wearable that amplifies people’s capacity to ignore the emotions or suffering of others.</p>
+    <p class="fragment fade-up">Exploring an “empathy blocker,” questions the very ethics behind garments that augment human senses; ways to filter out signals (visual, audio, etc.) that might encourage compassion.</p>
+</span>
+</section>
+
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Planetary Resource Extractor</h1>
+</section>
+
+<section data-state=h1>
+<span class="quotes">
+    <p>A wearable system that maximizes resource extraction from a future London environment (e.g., water, minerals, flora/fauna).</p>
+    <p class="fragment fade-up">Focusing on ruthless exploitation, interrogates the complexities of “using technology for good” versus fueling destructive consumption.</p>
+</span>
+</section>
