@@ -82,6 +82,11 @@ layout: designing-things
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Objectives</h1>
 </section>
 
+<section data-background-image="assets/imgs/DDen.png" data-state=dden>
+ <style>.dden header:after { content: "DR21 Air Vents, 2019 — Dragon's Den"; }</style> 
+<span class="quotes">Working in teams create a speculative wearable for the “greater evil” within the Earthsuits context. By focusing on an “evil” angle—exploiting, harming, or subverting typical solutions—you will confront ethical questions head-on. At the end of the day, teams will pitch their concepts “Dragons’ Den” style to a panel (which could be tutors, peers, or invited guests).</span>
+</section>
+
 <section data-state=h1>
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Outcomes</h1>
 </section>
