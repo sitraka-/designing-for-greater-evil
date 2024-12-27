@@ -88,7 +88,7 @@ layout: designing-things
 <span class="quotes">Working in teams create a speculative wearable for the “greater evil” within the Earthsuits context. By focusing on an “evil” angle—exploiting, harming, or subverting typical solutions—you will confront ethical questions head-on. At the end of the day, teams will have to pitch their concepts “Dragons’ Den” style to a panel.</span>
 </section>
 
-<section data-state=h1>
+<section data-background-color="red" data-state=h1>
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Outcomes</h1>
 </section>
 
