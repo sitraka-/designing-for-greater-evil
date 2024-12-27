@@ -78,13 +78,13 @@ layout: designing-things
 <span class="quotes">Design is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. <br /><br />It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
 </section>
 
-<section data-state=h1>
+<section data-background-image="assets/imgs/DDen.png" data-state=dden>
+ <style>.dden header:after { content: "DR21 Air Vents, 2019 — Dragon's Den"; }</style> 
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 3rem !important;" >Enter The<br/>
     <span style="font-size:8rem;">Dragons' Den</span></h1>
 </section>
 
-<section data-background-image="assets/imgs/DDen.png" data-state=dden>
- <style>.dden header:after { content: "DR21 Air Vents, 2019 — Dragon's Den"; }</style> 
+<section data-background-image="assets/imgs/DDen.png" data-state=h1>
 <span class="quotes">Working in teams create a speculative wearable for the “greater evil” within the Earthsuits context. By focusing on an “evil” angle—exploiting, harming, or subverting typical solutions—you will confront ethical questions head-on. At the end of the day, teams will pitch their concepts “Dragons’ Den” style to a panel (which could be tutors, peers, or invited guests).</span>
 </section>
 
