@@ -148,7 +148,7 @@ layout: designing-things
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
-    margin: auto;">An exoskeleton that enables overpopulation to continue without addressing root causes—allowing humans to live in hyper-dense conditions; designing only short-term solutions that ignore systemic issues.</p>
+    margin: auto;">An exoskeleton that simply lets people endure extreme overcrowding without addressing root causes—allowing humans to live in hyper-dense conditions; designing only short-term solutions that ignore systemic issues.</p>
     </span>
 </section>
 
@@ -162,7 +162,7 @@ layout: designing-things
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/seat.png">
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >False Sense of Security Garment</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >False Sense of Security</h1>
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
