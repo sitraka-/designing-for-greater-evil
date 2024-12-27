@@ -99,3 +99,12 @@ layout: designing-things
     <p class="fragment fade-up">3. A short reflection on what this “evil” design reveals about our assumptions, biases, and responsibilities as designers.</p>
     </span>
 </section>
+
+<section data-background-color="red" data-state=h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Key Tips</h1>
+    <span class="quotes">
+    <p>✓ Embrace Absurdity: The more over-the-top the ideas, the easier it is to spot ethical and environmental red flags.</p>
+    <p class="fragment fade-up">✓ Keep it Fast & Fun: A one-day sprint works best with a spirited, “fail fast” approach.</p>
+    <p class="fragment fade-up">✓ Encourage Reflection: Continuously prompt teams to notice how “evil” design reveals hidden biases or oversights that could happen in “good” design.</p>
+    </span>
+</section>
