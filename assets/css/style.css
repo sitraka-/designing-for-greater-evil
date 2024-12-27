@@ -54,7 +54,12 @@ body {
 
 body h1:first-child {
     margin: auto;
+}
+
+h1#design-for-the-greater-evil {
     font-family: 'UnifrakturCook';
+    text-transform: capitalize;
+    font-size: 3rem;
 }
 
 ins {
