@@ -106,8 +106,12 @@ layout: designing-things
 
 <section data-background-color="blueviolet" data-state=h1>
     <span class="quotes">
-    <p>✓ <span style="font-family: UnifrakturCook;">Embrace Absurdity:</span> The more over-the-top the ideas, the easier it is to spot ethical and environmental red flags.</p>
-    <p class="fragment fade-up">✓ <span style="font-family: UnifrakturCook;">Keep it Fast & Fun:</span> A one-day sprint works best with a spirited, “fail fast” approach.</p>
-    <p class="fragment fade-up">✓ <span style="font-family: UnifrakturCook;">Encourage Reflection:</span> Continuously prompt teams to notice how “evil” design reveals hidden biases or oversights that could happen in “good” design.</p>
+    <p>✓ <span style="font-family: UnifrakturCook; text-decoration: underline;">Embrace Absurdity:</span> The more over-the-top the ideas, the easier it is to spot ethical and environmental red flags.</p>
+    <p class="fragment fade-up">✓ <span style="font-family: UnifrakturCook; text-decoration: underline;">Keep it Fast & Fun:</span> A one-day sprint works best with a spirited, “fail fast” approach.</p>
+    <p class="fragment fade-up">✓ <span style="font-family: UnifrakturCook; text-decoration: underline;">Encourage Reflection:</span> Continuously prompt teams to notice how “evil” design reveals hidden biases or oversights that could happen in “good” design.</p>
     </span>
+</section>
+
+<section data-state=h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Key Tips</h1>
 </section>
