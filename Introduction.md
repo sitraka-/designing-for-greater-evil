@@ -85,7 +85,14 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-<span class="quotes">Working in teams create a speculative wearable for the “greater evil” within the Earthsuits context.<br /><br />By focusing on an “evil” angle—exploiting, harming, or subverting typical solutions—you will confront ethical questions head-on. At the end of the day, teams will have to pitch their concepts “Dragons’ Den” style to a panel.</span>
+<span class="quotes">Working in teams create a helmet for the “greater evil” within the Earthsuits context.<br /><br />By focusing on an “evil” angle—exploiting, harming, or subverting typical solutions—you will confront ethical questions head-on. At the end of the day, teams will have to pitch their concepts “Dragons’ Den” style to a panel.</span>
+</section>
+
+<section data-background-image="assets/imgs/ros.jpg" data-state=ros>
+ <style>.ros header:after { content: "Re-imagining Outer Space, 2019 — HEAD Geneva"; }</style> 
+</section>
+
+<section data-background-image="assets/imgs/ros2.jpg" data-state=ros>
 </section>
 
 <section data-background-color="red" data-state=h1>
@@ -94,7 +101,7 @@ layout: designing-things
 
 <section data-background-color="red" data-state=h1>
     <span class="quotes">
-    <p>1. A cardboard prototype of the wearable or relevant subsystem.</p>
+    <p>1. A cardboard prototype of the helmet or relevant subsystem.</p>
     <p class="fragment fade-up">2. A 3 minutes “pitch” explaining the concept, its malicious function, and why it’s so “desirable” for the user.</p>
     <p class="fragment fade-up">3. A short reflection on what this “evil” design reveals about our assumptions, biases, and responsibilities as designers.</p>
     </span>
@@ -113,61 +120,61 @@ layout: designing-things
 </section>
 
 <section data-state=h1>
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Six Beginnings</h1>
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 8rem !important;" >Few Starters</h1>
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/hms.jpg">
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Inverted Empathy Suit</h1>
-    <span class="quotes">
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Inverted Empathy Helmet</h1>
+    <!-- <span class="quotes">
         <p style="text-align: center;
     width: 80%;
     margin: auto;">A wearable that amplifies people’s capacity to ignore the emotions or suffering of others.</p>
-    </span>
+    </span> -->
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/111.jpg">
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Planetary Resource Extractor</h1>
-    <span class="quotes">
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Planetary Resource Extraction Helmet</h1>
+    <!-- <span class="quotes">
         <p style="text-align: center;
     width: 80%;
     margin: auto;">A wearable system that maximizes resource extraction from a future London environment, fueling destructive consumption</p>
-    </span>
+    </span> -->
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/ant.png">
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Surveillance Couture</h1>
-    <span class="quotes">
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Surveillance Helmet Couture</h1>
+    <!-- <span class="quotes">
         <p style="text-align: center;
     width: 80%;
     margin: auto;">An Earthsuit that collects massive data on everyone around the wearer; shifts from “protecting the wearer” to “violating others”.</p>
-    </span>
+    </span> -->
 </section>
 
 <section data-state=h1 data-background-image="assets/imgs/exo.png">
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Crowded Comfort Exoskeleton</h1>
-    <span class="quotes">
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Crowded Comfort Helmet</h1>
+    <!-- <span class="quotes">
         <p style="text-align: center;
     width: 80%;
     margin: auto;">An exoskeleton that simply lets people endure extreme overcrowding without addressing root causes—allowing humans to live in hyper-dense conditions; designing only short-term solutions that ignore systemic issues.</p>
-    </span>
+    </span> -->
 </section>
 
-<section data-state=h1 data-background-image="assets/imgs/trash.png">
+<!-- <section data-state=h1 data-background-image="assets/imgs/trash.png">
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >Climate Change Accelerator</h1>
     <span class="quotes">
         <p style="text-align: center;
     width: 80%;
     margin: auto;">An Earthsuit that relies on accelerating climate change to function better (for instance, harnessing heat or greenhouse gases for power).</p>
     </span>
-</section>
+</section> -->
 
 <section data-state=h1 data-background-image="assets/imgs/seat.png">
-    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >False Sense of Security</h1>
-    <span class="quotes">
+    <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important; padding: 0 0 3rem 0;" >False Sense Of Security Helmet</h1>
+    <!-- <span class="quotes">
         <p style="text-align: center;
     width: 80%;
     margin: auto;">A garment that feels protective but is actually dangerously ineffective (e.g., it obstructs real data about the environment while giving the wearer reassuring feedback); investigates the illusions design can create</p>
-    </span>
+    </span> -->
 </section>
 
 <section data-state=h1>
