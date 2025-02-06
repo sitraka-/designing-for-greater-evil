@@ -25,13 +25,13 @@ layout: designing-things
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 5rem !important;" ><span style="text-transform: none;">l.</span> Low Bridges, High Barriers<br/><span style="font-family:'picnic'; font-size:3rem;">Moses' Low Overpasses</span></h1>
 </section>
 
+<section data-background-image="assets/imgs/rm.jpg" data-state=rm3>
+ <style>.rm3 header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
+</section>
+
 <section data-background-image="assets/imgs/rm.jpg" data-state=rm>
  <style>.rm header:after { content: "Canadian Center for Architecture, 2015 — Misleading Innocence (tracing what a bridge can do)"; }</style>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/WwnkSHC5TMU?si=UFZYIY1sQmW8sft3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</section>
-
-<section data-background-image="assets/imgs/rm.jpg" data-state=rm3>
- <style>.rm3 header:after { content: "Postcard, 1930—1945 — Southern State Parkway, Long Island, N. Y., S. P. 10"; }</style>
 </section>
 
 <section data-background-image="assets/imgs/rm_23.jpg" data-state=rm2>
