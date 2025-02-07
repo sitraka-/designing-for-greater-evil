@@ -21,6 +21,27 @@ layout: designing-things
     <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 1;font-size: 5rem !important;" >-- A Prompt For Enquiry: Whose Good? Whose Evil?</h1>
 </section>
 
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <style>.cb1 header:after { content: "Chelsey Bonestell, 1949 — Concstruction of a manned space station"; }</style>
+    <h1 class="NT" style="font-family:'Picnic' !important;text-transform: capitalize !important;line-height: 0.9;font-size: 6rem !important;" ><span style="font-size:8rem !important;">Poetics Of Design</span></h1>
+</section>
+
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <span class="quotes">The design process itself—beyond its final outcome—embodies and perpetuates power structures and ideologies. Through its functional, infrastructural, symbolic, and normative aspects, it establishes standards and normalises behaviours and practices.</span>
+</section>
+
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <span class="quotes">Design serves as both an instrument of control and a force that even shapes what is considered natural or inevitable. Objects, designs, and technologies embody and enforce social values, biases, and power dynamics; Artefacts have politics, and these politics permeate through everyday practices and material cultures.</span>
+</section>
+
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <span class="quotes">Designs do not exist in isolation; they operate within assemblages where artefacts, practices, and power relations converge, reinforcing or disrupting, reshaping and reconfiguring broader social structures.</span>
+</section>
+
+<section data-background-image="assets/imgs/cb2.jpg" data-state=cb1>
+    <span class="quotes">Design itself is an assemblage, composed of interconnected elements—ideas, practices, technologies, and social norms—that operate within broader networks. It never stands alone but constantly interacts with larger systems, reinforcing or challenging the structures within which it exists.</span>
+</section>
+
 <section data-state=h1 >
     <h1 class="NT" style="font-family:'UnifrakturCook' !important;text-transform: capitalize !important;line-height: 1;font-size: 5rem !important;" ><span style="text-transform: none;">l.</span> Low Bridges, High Barriers<br/><span style="font-family:'picnic'; font-size:3rem;">Moses' Low Overpasses</span></h1>
 </section>
